@@ -2,13 +2,13 @@
 An implementation of pet adoption system on Android platform, written in java language.
 
 # Overview 
-(not done yet)
+(not finished yet)
 
 # Requirements 
-(not done yet)
+(not finished yet)
 
 # Usage 
-(not done yet)
+(not finished yet)
 
 1.Open git bash. 
 
@@ -23,7 +23,7 @@ An implementation of pet adoption system on Android platform, written in java la
 
 
 # Project Structure
-(not done yet)
+(not finished yet)
 
 ```
 (Path)                                	(Description)
