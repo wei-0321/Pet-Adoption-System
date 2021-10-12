@@ -4,6 +4,9 @@ An implementation of pet adoption system on Android platform, written in java la
 # Overview 
 (not finished yet)
 
+# system architecture
+![image](https://user-images.githubusercontent.com/71260071/136968513-97534e61-db23-4f72-8edf-cb8143a0e5ea.png)
+
 # Requirements 
 (not finished yet)
 
