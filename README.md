@@ -1,37 +1,24 @@
 # Pet-Adoption-System
-An implementation of pet adoption system on Android platform, written in java language.
+Using open data to build a pet adoption system on Android platform, written in java language.
 
 # Overview 
-(not finished yet)
+
+introduction PPT : 
+
+[Pet-Adoption-System.pptx](https://github.com/wei-0321/Pet-Adoption-System/files/7359916/Pet-Adoption-System.pptx)
+
+
+demo video :
+
+https://user-images.githubusercontent.com/71260071/137628148-d50054b4-53d2-4983-9e42-242a311dbbd6.mp4
+
+
 
 # system architecture
 ![image](https://user-images.githubusercontent.com/71260071/136968513-97534e61-db23-4f72-8edf-cb8143a0e5ea.png)
 
 # Requirements 
-(not finished yet)
+A phone with Android os or Android emulator is required.
 
 # Usage 
-(not finished yet)
-
-1.Open git bash. 
-
-2.Change the diretory where you want to do download this repository.
-```
-> cd (your directory)
-```
-3.Clone this repository. 
-```
-> git clone https://github.com/wei-0321/Food-Ordering-System.git
-```
-
-
-# Project Structure
-(not finished yet)
-
-```
-(Path)                                	(Description)
-
-
-
-
-```
+Download the apk file and run it on your device.
