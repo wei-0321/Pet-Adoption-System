@@ -22,4 +22,4 @@ https://user-images.githubusercontent.com/71260071/137628148-d50054b4-53d2-4983-
 A phone with Android os or Android emulator is required.
 
 # Usage 
-Download the apk file and run it on your device.
+Download the apk file named "debug.apk" and run it on your device.
